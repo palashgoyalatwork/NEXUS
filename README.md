@@ -216,7 +216,7 @@ This allows NEXUS to analyze how incidents evolve over time.
 
 The primary investigation workspace provides a structured interface for entering incident information and reviewing intelligence outputs.
 
-![NEXUS Investigation Dashboard](assets/screenshots/nexus-investigation-dashboard.png)
+![NEXUS Investigation Dashboard](assets/screenshots/nexus-investigation-dashboard.jpeg)
 
 ---
 
@@ -233,7 +233,7 @@ The archive includes:
 - Individual investigation records
 - Report download functionality
 
-![NEXUS Incident Archive](assets/screenshots/nexus-incident-archive.png)
+![NEXUS Incident Archive](assets/screenshots/nexus-incident-archive.jpeg)
 
 ---
 
@@ -241,7 +241,7 @@ The archive includes:
 
 The comparison workspace analyzes relationships and changes between two completed investigations.
 
-![NEXUS Incident Comparison](assets/screenshots/nexus-incident-comparison.png)
+![NEXUS Incident Comparison](assets/screenshots/nexus-incident-comparison.jpeg)
 
 ---
 
